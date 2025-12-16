@@ -1,0 +1,4 @@
+class,overall_prop,train_prop,test_prop
+GALAXY,0.59445,0.59445,0.59445
+STAR,0.21594,0.2159375,0.21595
+QSO,0.18961,0.1896125,0.1896
